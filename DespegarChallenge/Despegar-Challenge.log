@@ -1,0 +1,484 @@
+2019-01-18 12:56:51 INFO  TestBaseFrontEnd:22 - Setup done.
+2019-01-18 12:56:52 INFO  TestBaseFrontEnd:28 - Driver closed
+2019-01-18 13:02:37 INFO  TestBaseFrontEnd:22 - Setup done.
+2019-01-18 13:02:37 INFO  TestBaseFrontEnd:28 - Driver closed
+2019-01-18 13:03:20 INFO  TestBaseFrontEnd:22 - Setup done.
+2019-01-18 13:03:20 INFO  TestBaseFrontEnd:28 - Driver closed
+2019-01-18 13:07:15 INFO  TestBaseFrontEnd:22 - Setup done.
+2019-01-18 13:08:30 INFO  TestBaseFrontEnd:28 - Driver closed
+2019-01-18 13:16:46 INFO  TestBaseFrontEnd:24 - Setup done.
+2019-01-18 13:16:52 INFO  TestBaseFrontEnd:31 - Driver closed
+2019-01-18 13:19:06 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 13:19:22 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 13:37:51 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 13:38:04 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 13:39:29 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 13:39:52 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 14:04:30 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 14:04:57 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 14:11:29 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 14:12:59 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 14:32:41 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 14:32:50 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 14:33:43 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 14:33:54 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 14:56:38 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 14:58:00 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 14:59:54 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 15:04:23 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 15:17:41 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 15:19:00 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 15:38:51 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 15:39:46 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 15:39:57 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 15:41:37 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 15:41:48 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 15:42:50 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 16:18:41 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 16:20:08 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 18:18:14 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 18:18:49 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 18:19:36 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 18:24:07 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 18:24:18 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 18:31:06 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 18:31:41 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 18:38:15 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 18:42:11 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 18:42:21 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 18:51:42 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 19:10:00 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 19:10:35 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 19:11:15 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 19:45:00 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 19:51:23 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:31:40 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:33:12 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:34:39 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:35:55 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:36:45 ERROR HomePage:72 - Error parsing Date Unparseable date: "2019-01"
+2019-01-18 20:36:55 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:39:19 ERROR HomePage:74 - Error parsing Date Unparseable date: "2019-01"
+2019-01-18 20:39:28 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:39:54 ERROR HomePage:74 - Error parsing Date Unparseable date: "2019/04"
+2019-01-18 20:40:28 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:42:03 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:42:13 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 20:42:28 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:44:35 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:47:34 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:48:47 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:50:37 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:51:23 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:52:07 ERROR HomePage:74 - Error parsing Date Unparseable date: "2019-01"
+2019-01-18 20:52:16 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:52:43 ERROR HomePage:74 - Error parsing Date Unparseable date: "2019-0101"
+2019-01-18 20:52:54 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:54:45 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 20:57:57 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 21:00:44 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 21:01:38 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 21:04:06 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 21:09:48 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 21:10:32 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 21:24:34 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 21:24:45 ERROR HomePage:76 - Error parsing Date Unparseable date: "2019-/04-01"
+2019-01-18 21:24:46 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 21:26:27 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 21:26:38 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-18 21:37:49 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-18 21:38:00 ERROR HomePage:76 - Error parsing Date Unparseable date: "2019-04/-01"
+2019-01-18 21:38:01 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-20 22:45:00 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-20 22:45:46 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-20 23:02:37 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-20 23:03:19 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-20 23:18:51 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-20 23:19:31 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-20 23:20:14 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-20 23:22:36 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-20 23:51:36 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-20 23:53:39 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:01:26 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:17:51 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:19:22 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:20:02 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 00:23:18 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:23:31 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 00:25:22 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:29:37 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:30:18 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 00:30:49 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:31:29 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:32:12 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 00:32:46 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:35:25 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 00:35:58 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:36:49 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:37:30 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 00:39:03 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:41:12 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:41:54 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 00:42:41 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:46:27 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:47:11 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 00:47:35 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:48:15 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 00:49:08 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:49:46 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 00:50:10 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:50:51 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 00:52:18 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 00:54:33 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 01:05:40 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 01:06:13 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 01:07:09 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 01:07:53 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 01:08:11 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 01:10:35 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 01:12:08 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 01:13:58 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 01:16:02 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 01:19:14 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 01:57:48 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 01:59:04 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 01:59:20 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 02:04:43 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 02:04:57 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 02:05:33 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 02:05:47 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 02:06:25 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 02:06:40 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 02:07:06 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 02:08:14 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 02:10:07 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 02:10:28 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 09:29:16 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 09:32:39 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 09:32:58 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 09:33:27 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 09:34:39 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 09:36:31 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 09:37:31 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 09:41:14 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 09:41:41 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 09:42:33 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 09:43:35 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 09:44:09 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 09:46:25 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 09:46:41 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 09:47:15 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 09:48:19 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 09:48:34 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 09:49:04 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 10:27:55 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 10:54:08 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 10:55:34 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 11:03:21 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 11:04:15 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 11:06:44 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 11:10:43 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 11:19:10 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 11:47:46 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 11:54:52 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 11:55:54 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 13:58:13 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 13:58:13 INFO  flightsTest:22 - START-TEST
+2019-01-21 13:58:58 INFO  flightsTest:31 - END-TEST
+2019-01-21 13:58:58 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 14:05:05 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 14:05:05 INFO  flightsTest:22 - START-TEST
+2019-01-21 14:05:48 INFO  flightsTest:31 - END-TEST
+2019-01-21 14:05:49 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 14:08:07 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 14:08:07 INFO  flightsTest:38 - START-TEST
+2019-01-21 14:09:03 INFO  flightsTest:51 - END-TEST
+2019-01-21 14:09:04 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 14:12:57 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 14:12:57 INFO  flightsTest:20 - START-TEST
+2019-01-21 14:13:41 INFO  flightsTest:29 - END-TEST
+2019-01-21 14:13:41 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 15:00:54 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 15:00:54 INFO  HotelsTest:18 - START-TEST
+2019-01-21 15:01:24 INFO  HotelsTest:26 - END-TEST
+2019-01-21 15:01:52 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 15:01:52 INFO  HotelsTest:18 - START-TEST
+2019-01-21 15:02:30 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 15:07:05 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 15:07:05 INFO  HotelsTest:18 - START-TEST
+2019-01-21 15:18:55 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 15:18:55 INFO  HotelsTest:18 - START-TEST
+2019-01-21 15:23:28 INFO  HotelsTest:27 - END-TEST
+2019-01-21 15:34:23 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 15:34:23 INFO  HotelsTest:18 - START-TEST
+2019-01-21 15:34:38 INFO  HotelsTest:27 - END-TEST
+2019-01-21 15:34:38 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 15:34:51 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 15:34:51 INFO  HotelsTest:18 - START-TEST
+2019-01-21 15:38:44 INFO  HotelsTest:27 - END-TEST
+2019-01-21 15:38:53 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 15:38:53 INFO  HotelsTest:18 - START-TEST
+2019-01-21 15:52:12 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 15:52:12 INFO  HotelsTest:18 - START-TEST
+2019-01-21 15:52:59 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 15:54:50 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 15:54:50 INFO  HotelsTest:18 - START-TEST
+2019-01-21 15:55:31 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 16:10:26 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 16:10:26 INFO  HotelsTest:18 - START-TEST
+2019-01-21 16:11:19 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 16:11:45 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 16:11:45 INFO  HotelsTest:18 - START-TEST
+2019-01-21 16:12:25 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 17:10:05 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 17:10:05 INFO  flightsTest:20 - START-TEST
+2019-01-21 17:10:47 INFO  flightsTest:29 - END-TEST
+2019-01-21 17:10:48 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 17:16:04 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 17:16:04 INFO  flightsTest:20 - START-TEST
+2019-01-21 17:16:50 INFO  flightsTest:29 - END-TEST
+2019-01-21 17:16:50 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 17:41:16 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 17:41:16 INFO  HotelsTest:18 - START-TEST
+2019-01-21 17:41:57 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 17:43:55 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 17:43:55 INFO  HotelsTest:18 - START-TEST
+2019-01-21 17:44:35 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 17:45:16 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 17:45:16 INFO  HotelsTest:18 - START-TEST
+2019-01-21 17:52:53 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 17:52:53 INFO  HotelsTest:18 - START-TEST
+2019-01-21 17:54:10 INFO  HotelsTest:28 - END-TEST
+2019-01-21 17:54:21 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 17:54:21 INFO  HotelsTest:18 - START-TEST
+2019-01-21 17:54:49 INFO  HotelsTest:28 - END-TEST
+2019-01-21 20:08:49 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 20:08:49 INFO  HotelsTest:18 - START-TEST
+2019-01-21 20:10:17 INFO  HotelsTest:28 - END-TEST
+2019-01-21 20:10:17 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 20:10:28 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 20:10:28 INFO  HotelsTest:18 - START-TEST
+2019-01-21 20:11:13 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 20:11:46 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 20:11:46 INFO  HotelsTest:18 - START-TEST
+2019-01-21 20:12:42 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 20:12:42 INFO  HotelsTest:18 - START-TEST
+2019-01-21 20:42:51 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 20:42:51 INFO  HotelsTest:18 - START-TEST
+2019-01-21 20:48:04 INFO  HotelsTest:31 - END-TEST
+2019-01-21 20:48:16 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 20:48:16 INFO  HotelsTest:18 - START-TEST
+2019-01-21 20:49:12 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 20:52:24 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 20:52:24 INFO  HotelsTest:18 - START-TEST
+2019-01-21 20:58:52 INFO  HotelsTest:31 - END-TEST
+2019-01-21 21:17:07 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 21:17:07 INFO  HotelsTest:19 - START-TEST
+2019-01-21 21:35:03 INFO  HotelsTest:30 - END-TEST
+2019-01-21 21:35:27 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 21:35:27 INFO  HotelsTest:19 - START-TEST
+2019-01-21 21:36:10 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 21:39:48 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 21:39:48 INFO  HotelsTest:19 - START-TEST
+2019-01-21 21:49:30 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 21:49:30 INFO  HotelsTest:19 - START-TEST
+2019-01-21 22:01:22 INFO  HotelsTest:31 - END-TEST
+2019-01-21 22:01:32 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 22:01:32 INFO  HotelsTest:19 - START-TEST
+2019-01-21 22:13:23 INFO  HotelsTest:31 - END-TEST
+2019-01-21 22:13:34 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 22:13:34 INFO  HotelsTest:19 - START-TEST
+2019-01-21 22:20:47 INFO  HotelsTest:31 - END-TEST
+2019-01-21 22:21:06 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 22:21:06 INFO  HotelsTest:20 - START-TEST
+2019-01-21 22:22:25 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 22:29:33 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 22:29:33 INFO  HotelsTest:20 - START-TEST
+2019-01-21 22:30:48 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 22:32:31 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 22:32:31 INFO  HotelsTest:20 - START-TEST
+2019-01-21 22:36:17 INFO  HotelsTest:33 - END-TEST
+2019-01-21 22:36:18 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 22:38:14 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 22:38:14 INFO  HotelsTest:20 - START-TEST
+2019-01-21 22:39:35 INFO  HotelsTest:33 - END-TEST
+2019-01-21 22:39:35 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 22:46:59 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 22:46:59 INFO  HotelsTest:21 - START-TEST
+2019-01-21 22:48:14 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 22:51:14 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 22:51:14 INFO  HotelsTest:21 - START-TEST
+2019-01-21 22:52:11 INFO  HotelsTest:33 - END-TEST
+2019-01-21 22:52:11 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 22:58:28 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 22:58:28 INFO  HotelsTest:21 - START-TEST
+2019-01-21 22:59:06 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 22:59:26 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 22:59:26 INFO  HotelsTest:21 - START-TEST
+2019-01-21 23:00:43 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 23:02:13 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:02:13 INFO  HotelsTest:21 - START-TEST
+2019-01-21 23:03:02 INFO  HotelsTest:33 - END-TEST
+2019-01-21 23:03:03 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 23:04:30 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:04:30 INFO  HotelsTest:21 - START-TEST
+2019-01-21 23:11:05 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:11:05 INFO  HotelsTest:21 - START-TEST
+2019-01-21 23:12:50 INFO  HotelsTest:33 - END-TEST
+2019-01-21 23:12:51 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 23:13:37 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:13:37 INFO  HotelsTest:21 - START-TEST
+2019-01-21 23:14:51 INFO  HotelsTest:33 - END-TEST
+2019-01-21 23:15:11 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:15:11 INFO  flightsTest:35 - START-TEST
+2019-01-21 23:16:05 INFO  flightsTest:48 - END-TEST
+2019-01-21 23:16:05 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 23:17:21 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:17:21 INFO  HotelsTest:21 - START-TEST
+2019-01-21 23:18:34 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 23:19:11 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:19:11 INFO  HotelsTest:21 - START-TEST
+2019-01-21 23:24:06 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:24:06 INFO  HotelsTest:21 - START-TEST
+2019-01-21 23:25:16 INFO  HotelsTest:33 - END-TEST
+2019-01-21 23:25:16 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 23:27:02 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:27:02 INFO  flightsTest:35 - START-TEST
+2019-01-21 23:28:56 INFO  flightsTest:48 - END-TEST
+2019-01-21 23:28:57 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 23:40:38 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:40:38 INFO  flightsTest:20 - START-TEST
+2019-01-21 23:41:18 INFO  flightsTest:29 - END-TEST
+2019-01-21 23:41:19 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 23:47:26 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:47:26 INFO  flightsTest:20 - START-TEST
+2019-01-21 23:48:35 INFO  flightsTest:29 - END-TEST
+2019-01-21 23:48:36 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-21 23:50:47 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:50:47 INFO  flightsTest:20 - START-TEST
+2019-01-21 23:55:58 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-21 23:55:58 INFO  flightsTest:20 - START-TEST
+2019-01-21 23:57:08 INFO  flightsTest:29 - END-TEST
+2019-01-21 23:57:09 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-22 09:37:13 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 09:37:13 INFO  flightsTest:36 - START-TEST
+2019-01-22 09:38:42 INFO  flightsTest:45 - END-TEST
+2019-01-22 09:38:43 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-22 09:38:45 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 09:38:45 INFO  flightsTest:36 - START-TEST
+2019-01-22 09:39:59 INFO  flightsTest:45 - END-TEST
+2019-01-22 09:40:00 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-22 10:15:34 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 10:15:34 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-22 10:15:37 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 10:15:38 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-22 10:16:35 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 10:16:35 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-22 10:17:03 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 10:17:03 INFO  flightsTest:46 - START-TEST
+2019-01-22 10:32:25 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 10:32:25 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-22 10:32:26 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 10:32:27 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-22 10:46:29 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 10:46:29 INFO  flightsTest:46 - START-TEST
+2019-01-22 11:00:39 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 11:00:39 INFO  flightsTest:46 - START-TEST
+2019-01-22 11:06:55 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 11:06:55 INFO  flightsTest:46 - START-TEST
+2019-01-22 11:11:29 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 11:11:29 INFO  flightsTest:31 - START-TEST
+2019-01-22 11:12:12 INFO  flightsTest:40 - END-TEST
+2019-01-22 11:12:12 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-22 11:12:13 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-22 11:12:13 INFO  flightsTest:31 - START-TEST
+2019-01-22 11:12:48 INFO  flightsTest:40 - END-TEST
+2019-01-22 11:12:48 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 09:30:01 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 09:30:01 INFO  HotelsTest:21 - START-TEST
+2019-01-23 09:31:18 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 09:38:39 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 09:38:39 INFO  HotelsTest:21 - START-TEST
+2019-01-23 09:39:05 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 09:42:56 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 09:42:56 INFO  HotelsTest:21 - START-TEST
+2019-01-23 09:44:10 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 09:44:34 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 09:44:34 INFO  HotelsTest:21 - START-TEST
+2019-01-23 09:51:11 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 09:51:11 INFO  HotelsTest:21 - START-TEST
+2019-01-23 09:52:26 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 09:52:49 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 09:52:49 INFO  HotelsTest:21 - START-TEST
+2019-01-23 09:53:46 INFO  HotelsTest:33 - END-TEST
+2019-01-23 09:53:47 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 10:03:19 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:03:19 INFO  flightsTest:22 - START-TEST
+2019-01-23 10:04:03 INFO  flightsTest:31 - END-TEST
+2019-01-23 10:04:03 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 10:04:04 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:04:04 INFO  flightsTest:22 - START-TEST
+2019-01-23 10:05:45 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:05:45 INFO  flightsTest:37 - START-TEST
+2019-01-23 10:07:06 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 10:07:08 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:07:08 INFO  flightsTest:37 - START-TEST
+2019-01-23 10:09:24 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:09:24 INFO  flightsTest:37 - START-TEST
+2019-01-23 10:15:17 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:15:17 INFO  flightsTest:37 - START-TEST
+2019-01-23 10:16:40 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 10:16:42 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:16:42 INFO  flightsTest:37 - START-TEST
+2019-01-23 10:17:23 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:17:23 INFO  flightsTest:37 - START-TEST
+2019-01-23 10:28:58 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:28:58 INFO  flightsTest:37 - START-TEST
+2019-01-23 10:32:24 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:32:24 INFO  flightsTest:37 - START-TEST
+2019-01-23 10:33:53 INFO  flightsTest:50 - END-TEST
+2019-01-23 10:33:54 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 10:33:55 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:33:55 INFO  flightsTest:37 - START-TEST
+2019-01-23 10:36:09 INFO  flightsTest:50 - END-TEST
+2019-01-23 10:36:09 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 10:49:29 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:49:29 INFO  flightsTest:37 - START-TEST
+2019-01-23 10:50:32 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:50:32 INFO  flightsTest:37 - START-TEST
+2019-01-23 10:51:16 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 10:51:18 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 10:51:18 INFO  flightsTest:37 - START-TEST
+2019-01-23 11:01:54 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 11:01:54 INFO  flightsTest:37 - START-TEST
+2019-01-23 11:03:25 INFO  flightsTest:51 - END-TEST
+2019-01-23 11:03:26 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 11:03:27 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 11:03:27 INFO  flightsTest:37 - START-TEST
+2019-01-23 11:04:46 INFO  flightsTest:51 - END-TEST
+2019-01-23 11:04:46 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 11:07:00 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 11:07:00 INFO  flightsTest:37 - START-TEST
+2019-01-23 11:07:54 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 11:07:55 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 11:07:55 INFO  flightsTest:37 - START-TEST
+2019-01-23 11:09:08 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 11:09:08 INFO  flightsTest:37 - START-TEST
+2019-01-23 11:10:37 INFO  flightsTest:51 - END-TEST
+2019-01-23 11:10:38 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 11:10:39 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 11:10:39 INFO  flightsTest:37 - START-TEST
+2019-01-23 11:12:56 INFO  TestBaseFrontEnd:23 - Setup done.
+2019-01-23 11:12:56 INFO  flightsTest:37 - START-TEST
+2019-01-23 11:17:37 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 11:17:39 INFO  TestBaseFrontEnd:29 - Driver closed
+2019-01-23 11:20:58 INFO  TestBaseFrontEnd:25 - Setup done.
+2019-01-23 11:20:58 INFO  flightsTest:37 - START-TEST
+2019-01-23 11:22:27 INFO  flightsTest:51 - END-TEST
+2019-01-23 11:22:28 INFO  TestBaseFrontEnd:31 - Driver closed
+2019-01-23 11:22:30 INFO  TestBaseFrontEnd:25 - Setup done.
+2019-01-23 11:22:30 INFO  flightsTest:37 - START-TEST
+2019-01-23 11:23:08 INFO  TestBaseFrontEnd:25 - Setup done.
+2019-01-23 11:23:08 INFO  HotelsTest:21 - START-TEST
+2019-01-23 11:23:59 INFO  HotelsTest:33 - END-TEST
+2019-01-23 11:24:00 INFO  TestBaseFrontEnd:31 - Driver closed
